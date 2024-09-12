@@ -171,7 +171,6 @@ td {
 
 .footer .box-container .logob img {
   max-width: 30vh;
-  /* Decrease logo size */
   height: auto;
 }
 
@@ -234,7 +233,7 @@ td {
     width: 70%;
     height: auto;
     right: 0%;
-    margin-top: 150px;
+    margin-top: 110px;
     margin-right: 60px;
     padding: 0vh;
     position: absolute;
@@ -255,18 +254,15 @@ td {
   }
   @media (max-width: 320px) {
     table {
-      width: 100%; /* Make the table full width */
-      font-size: 12px; /* Reduce font size for smaller screens */
+      width: 100%; 
+      font-size: 12px; 
     }
   
     th, td {
-      padding: 5px; /* Decrease padding */
+      padding: 5px;
     }
-  
     .table {
-      margin: 10px 0; /* Adjust margin */
+      margin: 10px 0; 
     }
   }
-  
-
 }
