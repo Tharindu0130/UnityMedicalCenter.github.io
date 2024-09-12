@@ -1,0 +1,6 @@
+Explanation:
+Background and Color: The footer has a dark background with light text for contrast. The column headers have a blue underline for a modern touch.
+Logo Styling: The logo is centered with a reasonable size and space below it.
+Columns: The footer columns are evenly distributed and responsive, adjusting to screen sizes for better mobile viewing.
+Hover Effects: Links change color on hover for interactivity.
+You can further customize this to match your website's theme by adjusting colors, fonts, and sizes
